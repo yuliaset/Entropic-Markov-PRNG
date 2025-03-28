@@ -19,7 +19,7 @@ where:
 
 For a given context 𝑠, the entropy is:
 ```math
-H(s) = - \[ \sum_{b\in\left\{0,1\right{^{\infty} 2^{-n} = 1 \]
+H(s) = - \[ \sum_{b\in\left\{0,1\right^{\infty} 2^{-n} = 1 \]
 ```
 
 
