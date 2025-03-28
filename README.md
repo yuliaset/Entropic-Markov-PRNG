@@ -19,7 +19,7 @@ where:
 
 For a given context 𝑠, the entropy is:
 ```math
-H(s) = - \[ \sum_{b\in\{0,1\}} P(b | s) log_2 P(b | s) \]
+H(s) = - \sum_{b\in\{0,1\}} P(b | s) log_2 P(b | s) 
 ```
 
 
