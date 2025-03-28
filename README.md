@@ -17,4 +17,11 @@ where:
 
 - 𝑁(𝑠) is the total number of occurrences of context 𝑠 in the sequence.
 
+For a given context 𝑠, the entropy is:
+```math
+H(s) = - \[ \sum_{b\in{0,1}}^{\infty} 2^{-n} = 1 \]
+```
+
+
+
 
