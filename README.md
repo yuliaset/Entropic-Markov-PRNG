@@ -2,6 +2,6 @@
 Pseudo-RNG algorithm that uses Markov chains to maximize entropy
 
 ```math
-P(b | s) = \frac{{N(s, b)}{N(s)}}
+P(b | s) = \frac{\N(s, b)}{N(s)}
 
 ```
