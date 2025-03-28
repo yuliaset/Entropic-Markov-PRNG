@@ -5,10 +5,9 @@ Markov Chain Model of Order 𝑘:
 
 A context is a tuple of 𝑘 consecutive bits, denoted as 
 ```math 
-s = (x_i-k+1 , ... , x_i)
+s = (x_{i-k+1} , ... , x_i)
 ```
-
-
+For a given context 𝑠, the probability of the next bit 𝑏 is estimated by:
 ```math
 P(b | s) = \frac{N(s, b)}{N(s)}
 
